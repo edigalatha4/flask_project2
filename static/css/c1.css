@@ -1,0 +1,22 @@
+h1
+{
+    background-color: pink;
+    color: hsl(328, 84%, 22%);
+}
+h1:hover
+{
+    background-color: gold;
+    color: hotpink;
+}
+h2
+{
+    background-color: rgb(219, 96, 96);
+    color: rgb(17, 16, 16);
+}
+
+h2:hover
+{
+    background-color:cyan;
+    color: deeppink;
+}
+
